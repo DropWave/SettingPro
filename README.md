@@ -18,6 +18,8 @@
 
 下载APK：[前往 Releases](https://github.com/DropWave/SettingPro/releases)
 
+[前往 酷安](https://www.coolapk.com/apk/278849)
+
 ## 自我介绍
 
 高级设置Plus，全网下载量高达50w(酷安下载量32w)，平均1天约6000+次启动量、2000w+次功能调用量，早期功能基于本地而不依赖于服务器，但为提升用户体验在6.0起使用云端功能。因此您如需部署高级设置Plus项目，可能需要一台高带宽的服务器。
