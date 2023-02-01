@@ -4,7 +4,7 @@
 <h1 align="center">隐启设置</h1>
 <p align="center">痛击硬件不支持（雷军！金凡！）打开实际系统支持但是被MIUI隐藏的实用功能及安卓原生功能</p>
 <p align="center">开发/设计/交互：皓洋Haoyang  Developer By Haoyang</p>
-
+**隐启设置自6.0起开源代码将不再上传至Github**
 
 
 
