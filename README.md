@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://www.hualigs.cn/image/62c8eb4552f20.jpg" /></p>
+<p align="center"><img src="https://settingpro.dropwave.uotan.cn/index_files/logo.png" /></p>
 <h1 align="center">高级设置Plus</h1>
 
 <p align="center">痛击硬件不支持（雷军！金凡！）打开实际系统支持但是被MIUI隐藏的实用功能及安卓原生功能</p>
