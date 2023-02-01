@@ -16,7 +16,7 @@
 
 虽然同时支持 x86 与 x64 架构，但还是建议您在 x64 架构设备下体验。
 
-下载APK：[前往 Releases](https://github.com/DropWave/SettingPro/releases) 或 [前往 酷安](https://www.coolapk.com/apk/278849) 或 [前往 应用官网](https://www.coolapk.com/apk/278849)
+下载APK：前往[Releases](https://github.com/DropWave/SettingPro/releases) 或 [酷安](https://www.coolapk.com/apk/278849) 或 [应用官网](https://www.coolapk.com/apk/278849)，均由开发方同步更新。
 
 ## 自我介绍
 
